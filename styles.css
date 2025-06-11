@@ -33,12 +33,13 @@ i {
     justify-content: center;
 }
 
-.post-header h2 {
+.post-header .title {
     font-size: 14px;
     margin: 0;
+    color: black;
 }
 
-.post-header p {
+.post-header .user-name {
     font-size: 12px;
     color: #666;
     margin: 0;   
